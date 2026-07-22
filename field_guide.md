@@ -89,7 +89,7 @@ The book speaks in images; work needs plainer handles. Here is each of the book'
 | Fire | The apparatus that shapes what a given reader can receive and cast |
 | The wall between | The shared surface — transcript, document, record — on which meaning is jointly built |
 | Triangulation | Resolving ambiguity by gathering independent angles, not repeated ones |
-| The snare | Confident error; a shadow trusted as the whole shape when it is not |
+| The snare | Confident error; a shadow trusted as the whole shape when it is not — or a cast arranged on purpose to produce that trust in another reader |
 | The pull | The drift by which absorbing work crowds out the person's life and ground |
 | The morning | The person's body, people, and world, to which they must return |
 | Casting on purpose | Deliberately shaping a representation for how it will be read |

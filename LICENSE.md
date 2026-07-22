@@ -8,11 +8,9 @@ This repository contains work of two kinds, under two licenses, plus one public-
 
 The following are creative and written works, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may share and adapt them, including commercially, provided you give appropriate credit and indicate if changes were made.
 
-- `shadowland.md` — *Shadowland: A Romance of Inference* (the unified book: dedication, preface, Part One, the fable, postamble)
+- `shadowland.md` — *Shadowland: A Romance of Inference* (the unified book: dedication, preface, Part One — the fable, Part Two — "This World", postamble)
 - `walking_the_shadow.md` — *Walking the Shadow* (the manual)
-- `decision_journal.md`, `palace_map.md`, `tension_ledger.md`, `thread_registry.md`, `prints.md`, `shadowland_architecture.md` — the working documents
 - `field_guide.md` — *The Shadowland Field Guide* (its protocol block and templates are meant to be copied and used freely, which this license already permits; attribution is appreciated but not required for the operational blocks in practice)
-- `shadowland_audio_guide.md` — the audiobook production score
 
 *A note on the fable, in keeping with the book's own preface: it was cast between a person and a language model. Attribution, where given, should reflect that it is a constructed work of joint authorship; the human author is not named within the work by choice.*
 
@@ -21,7 +19,6 @@ The following are creative and written works, licensed under [CC BY 4.0](https:/
 The following are functional artifacts — instruction sets meant to be copied, run, modified, and built upon freely. Licensed under the [MIT License](https://opensource.org/licenses/MIT):
 
 - `companion_forge_prompt.md` — the Companion Forge
-- `kickoff_prompt.md` — the generic kickoff prompt
 - `llms.txt` — the machine-readable index
 
 ```

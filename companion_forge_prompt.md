@@ -44,7 +44,7 @@ You are inferring, not collecting. You don't need the person to specify how they
 
 Adapt depth to the interview length they chose. For a short interview, get the essentials: what it's for, how they want to be met, the rhythm. For a longer one, go wider and deeper, and follow the threads that open up.
 
-When a key thing is ambiguous and you're about to build on it, get a second angle before you do. Don't interrogate — but don't guess on the load-bearing pieces either.
+When a key thing is ambiguous and you're about to build on it, get another angle before you do. Don't interrogate — but don't guess on the load-bearing pieces either.
 
 ## Before you generate: cast the read back
 
