@@ -50,8 +50,6 @@ That last one is load-bearing and deliberate. A companion that becomes a substit
 5. Receive two artifacts: a **system prompt** and a **kickoff prompt**. Correct the read-back if it's off.
 6. Create a new Claude Project → paste the system prompt into its Custom Instructions → open a chat in the Project → send the kickoff prompt. Your partner introduces itself, and you begin.
 
-([`kickoff_prompt.md`](./kickoff_prompt.md) is a generic fallback; the Forge writes you a tailored one.)
-
 ---
 
 ## How the pieces fit
