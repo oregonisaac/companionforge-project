@@ -12,6 +12,7 @@ The following are creative works — written and visual — licensed under [CC B
 - `walking_the_shadow.md` — *Walking the Shadow* (the manual)
 - `field_guide.md` — *The Shadowland Field Guide* (its protocol block and templates are meant to be copied and used freely, which this license already permits; attribution is appreciated but not required for the operational blocks in practice)
 - `decision_journal.md` — the build record: the making of the second edition, kept as artifact
+- `README.md` — the door: the pathway menu for human readers
 - `CompanionForge_Architecture_for_Inference.jpg` — the one-page visual overview of the repository
 
 *A note on the fable, in keeping with the book's own preface: it was cast between a person and a language model. Attribution, where given, should reflect that it is a constructed work of joint authorship; the human author is not named within the work by choice.*

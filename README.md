@@ -68,4 +68,4 @@ The book **shows and argues** the framework. The manual **teaches** it as person
 
 ## License
 
-Two licenses and one public-domain text — see [`LICENSE.md`](./LICENSE.md). In short: the creative works (the book, the manual, the field guide, the build record, the overview image) are under CC BY 4.0; the prompt and tool files are under MIT; `flatland.md` is public domain (Project Gutenberg eBook #201).
+Two licenses and one public-domain text — see [`LICENSE.md`](./LICENSE.md). In short: the creative works (the book, the manual, the field guide, the build record, the overview image, and this README) are under CC BY 4.0; the prompt and tool files are under MIT; `flatland.md` is public domain (Project Gutenberg eBook #201).

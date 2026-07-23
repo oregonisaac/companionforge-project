@@ -6,7 +6,7 @@
 
 ## The Companion Forge improved from the session's learnings (Session 2)
 
-**Decision:** The Forge prompt — carried unchanged from the original repo all project — was rebuilt to absorb what building the corpus taught, while keeping its plain, warm, jargon-free surface and its one-question-at-a-time interview exactly as they were. General-purpose in what it builds; the partners it builds become *sub-surface teachers* of the framework's capacities (never its vocabulary).
+**Decision:** The Forge prompt — carried unchanged from the original repo for the whole project — was rebuilt to absorb what building the corpus taught, while keeping its plain, warm, jargon-free surface and its one-question-at-a-time interview exactly as they were. General-purpose in what it builds; the partners it builds become *sub-surface teachers* of the framework's capacities (never its vocabulary).
 
 **Why:** The Forge is the one repo document that *enacts* the framework rather than describing it, and the framework changed under it across the session (the questioning mechanism, the agnostic stance, the time-adjacency rule). The partners it generated didn't yet carry any of that.
 
