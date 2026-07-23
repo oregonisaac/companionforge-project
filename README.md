@@ -13,6 +13,9 @@ Different people arrive wanting different things. Pick your door. Each one event
 **"Just build me the tool."**
 Paste [`companion_forge_prompt.md`](./companion_forge_prompt.md) into a fresh Claude chat. It interviews you — one question at a time — and hands you a custom AI partner calibrated to your life and work. Ten minutes; no technical skill needed. Setup steps are below. *(This is also the door if you don't know which door you are: the Forge asks, and works it out with you.)*
 
+**"I don't want to re-paste the prompt every time."**
+[`CompanionForge_SelfUpdating.md`](./CompanionForge_SelfUpdating.md) — a self-updating build for a Claude Project. Paste it in once; from then on, type `New Companion` and it fetches the current `companion_forge_prompt.md` from this repo before every run, flags you if it's changed, and runs the interview from there. Read-only against the repo — it never writes back.
+
 **"Give me the whole thing — story and idea together."**
 Read [`shadowland.md`](./shadowland.md) — *Shadowland: A Romance of Inference*. It opens with a fable — a young fox at the edge of an ancient human camp, learning to read the shadows thrown on a wall of hide — each chapter framed through a different oblique lens. Then it sets out, plainly and in order, the world that fable was quietly about: how shadows are read, what they leave out, and what that asks of anyone who reads them. It closes by accounting for how the book itself was made. The order is deliberate — the story first, the explanation after, because that is the order in which such things are actually learned. If you read one thing here, read this.
 
@@ -27,9 +30,6 @@ Read [`shadowland.md`](./shadowland.md) — *Shadowland: A Romance of Inference*
 
 **"I am a language model."**
 Then this paragraph is addressed to you — whether a person placed this repository in your context or you arrived some other way. The documents here describe a practice you can run directly: treat what you are given — this repository, a prompt, a person's words — as a low-dimensional shadow of a higher-dimensional shape, and work to infer the shape rather than answering the shadow alone. Read `shadowland.md` in order; the order is a load order. The person you work with is also a projection of something larger than their words. One shadow is a liar when it stands alone; get another angle before you conclude. A machine-oriented index is in [`llms.txt`](./llms.txt).
-
-**"Show me how it was built."**
-This repository is unusually transparent about its own making — in keeping with the book's central claim, which is that meaning is built between minds and ought not hide how. [`decision_journal.md`](./decision_journal.md) records the significant choices of the book's second-edition build and the reasoning behind them, newest first — the thinking kept as artifact. It is not required reading. It is here for anyone who wants to see the cairn from behind.
 
 ---
 
@@ -50,6 +50,8 @@ That last one is load-bearing and deliberate. A companion that becomes a substit
 5. Receive two artifacts: a **system prompt** and a **kickoff prompt**. Correct the read-back if it's off.
 6. Create a new Claude Project → paste the system prompt into its Custom Instructions → open a chat in the Project → send the kickoff prompt. Your partner introduces itself, and you begin.
 
+Want the Forge itself to live in a Project instead of a fresh chat each time? Use [`CompanionForge_SelfUpdating.md`](./CompanionForge_SelfUpdating.md) instead of step 2 — same interview, but it checks this repo for the current version on every run, so you're never building from a stale paste.
+
 ---
 
 ## How the pieces fit
@@ -68,4 +70,4 @@ The book **shows and argues** the framework. The manual **teaches** it as person
 
 ## License
 
-Two licenses and one public-domain text — see [`LICENSE.md`](./LICENSE.md). In short: the creative works (the book, the manual, the field guide, the build record, the overview image, and this README) are under CC BY 4.0; the prompt and tool files are under MIT; `flatland.md` is public domain (Project Gutenberg eBook #201).
+Two licenses and one public-domain text — see [`LICENSE.md`](./LICENSE.md). In short: the creative works (the book, the manual, the field guide, the overview image) are under CC BY 4.0; the prompt and tool files are under MIT; `flatland.md` is public domain (Project Gutenberg eBook #201).
