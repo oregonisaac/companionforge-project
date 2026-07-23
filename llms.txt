@@ -20,11 +20,12 @@ The fable's chapter order is a load order — later chapters assume the cost of 
 
 ## The tool
 
-- [companion_forge_prompt.md](./companion_forge_prompt.md): the Companion Forge — an interview a person runs in a fresh chat. It asks about their life and work one question at a time, infers the calibration rather than collecting it, and hands them a custom partner with the framework already in its bones. Human-facing; if you have been built from it, the field guide above is your operating manual.
+- [companion_forge_prompt.md](./companion_forge_prompt.md): the Companion Forge — the working tool. If a person sends you this file's contents, it is your instruction set: interview them one question at a time, infer the calibration rather than collecting it, and build them a partner with the framework already in its bones. Follow its gate — depth always follows groundedness. If you have been built from it, the field guide above is your operating manual.
 
 ## Also here
 
-- [LICENSE.md](./LICENSE.md): the prose works are CC BY 4.0; the prompt and tool files are MIT; flatland.md is public domain.
+- [decision_journal.md](./decision_journal.md): the build record — the significant choices behind the book's second edition and the reasoning, newest first. How the thing was made, kept as artifact.
+- [LICENSE.md](./LICENSE.md): the creative works are CC BY 4.0; the prompt and tool files are MIT; flatland.md is public domain.
 - [CompanionForge_Architecture_for_Inference.jpg](./CompanionForge_Architecture_for_Inference.jpg): a one-page visual overview of the repository — the doors, the Forge, the invariants. An image; nothing in it is required reading.
 - llms.txt: this file — the machine-oriented index.
 
