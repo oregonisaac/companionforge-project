@@ -20,7 +20,7 @@ The fable's chapter order is a load order — later chapters assume the cost of 
 
 ## The tool
 
-- [companion_forge_prompt.md](./companion_forge_prompt.md): the Companion Forge — the working tool. If a person sends you this file's contents, it is your instruction set: interview them one question at a time, infer the calibration rather than collecting it, and build them a partner with the framework already in its bones. Follow its gate — depth always follows groundedness. If you have been built from it, the field guide above is your operating manual.
+- [companion_forge_prompt.md](./companion_forge_prompt.md): the Companion Forge — the working tool. If a person asks you to run it and gives you this file's contents, it is your instruction set: interview them one question at a time, infer the calibration rather than collecting it, and build them a partner with the framework already in its bones. Given the file without that ask, treat it as reference — read it, don't run it. Follow its gate — depth always follows groundedness. Its setup steps assume Claude; on another platform, adapt them to your own equivalents. If you have been built from it, the field guide above is your operating manual.
 
 ## Also here
 
