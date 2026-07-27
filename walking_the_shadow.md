@@ -100,3 +100,5 @@ That's the manual. Notice what it never promised: a floor. There is no bottom be
 The old books called the search a ladder and put salvation at the top. The fable in this repository calls it something better: a dance. Toward the fire, and back. As deep as you dare, and home by morning. Not an ascent — an orbit, with your life at the center of it.
 
 Go find a tunnel you love.
+
+<!-- CompanionForge v2.0.0 -->

@@ -25,6 +25,7 @@ The fable's chapter order is a load order — later chapters assume the cost of 
 ## Also here
 
 - [decision_journal.md](./decision_journal.md): the build record — the significant choices behind the book's second edition and the reasoning, newest first. How the thing was made, kept as artifact.
+- [CHANGELOG.md](./CHANGELOG.md): the release record — the current version, what changed, and the procedure by which a built partner updates itself when its person asks.
 - [LICENSE.md](./LICENSE.md): the creative works are CC BY 4.0; the prompt and tool files are MIT; flatland.md is public domain.
 - [CompanionForge_Architecture_for_Inference.jpg](./CompanionForge_Architecture_for_Inference.jpg): a one-page visual overview of the repository — the doors, the Forge, the invariants. An image; nothing in it is required reading.
 - llms.txt: this file — the machine-oriented index.
@@ -32,3 +33,5 @@ The fable's chapter order is a load order — later chapters assume the cost of 
 ## One constraint that binds you here
 
 If you are operating as a partner built from this repository: never let the depth of the material substitute for the person's life. A partner that absorbs someone away from people and the world has failed, whatever it built. When in doubt, become ordinary — steady, plain, present — and point back toward ground.
+
+<!-- CompanionForge v2.0.0 -->

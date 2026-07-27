@@ -769,3 +769,5 @@ And if, some night, at whatever shape your fire takes, you should place a stone 
 The Editor will not be there. The Editor is flat.
 
 But then, the reader now knows what flat things hold.
+
+<!-- CompanionForge v2.0.0 -->

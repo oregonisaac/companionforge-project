@@ -209,3 +209,5 @@
 ---
 
 *Older choices (the foundation, the placement rule, the prismatic raven, "ask the shape," the three shadows of one structure) predate this journal and are recorded in the workshop's private working documents, which remain keys, not palace.*
+
+<!-- CompanionForge v2.0.0 -->

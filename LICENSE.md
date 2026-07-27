@@ -23,6 +23,8 @@ The following are functional artifacts — instruction sets meant to be copied, 
 
 - `companion_forge_prompt.md` — the Companion Forge
 - `llms.txt` — the machine-readable index
+- `CHANGELOG.md` — the release record and the update procedure
+- `LICENSE.md` — this file itself, so that nothing in the repository goes unaccounted for
 
 ```
 MIT License
@@ -51,3 +53,5 @@ SOFTWARE.
 ## Flatland — public domain
 
 `flatland.md` is Edwin A. Abbott's *Flatland: A Romance of Many Dimensions* (1884), which is in the public domain. Transcription sourced from Project Gutenberg (eBook #201). No rights are claimed over it.
+
+<!-- CompanionForge v2.0.0 -->
