@@ -17,6 +17,12 @@ This procedure is for a partner built by the Companion Forge, when the person as
 
 ---
 
+## 2.1.0 — 2026-07-26
+
+The Forge gains a second body: `CompanionForge_SelfUpdating.md`, a build that lives in a persistent Claude Project. Type `New Companion` and it fetches the canonical Forge from this repository, checks the version stamp against its embedded baseline, flags you if the canonical has moved — offering a summary of the changes from this changelog — and runs the interview from the newest version it has. Read-only against the repository; the person stays in the loop on every update. Contributed by Isaac (@oregonisaac), the first stone offered back, and integrated with the version system this repository now runs on.
+
+**For built partners:** nothing to change — this release adds a new Forge edition and does not alter the operating layer.
+
 ## 2.0.0 — 2026-07-26
 
 Versioning and the update path begin. Every public text file now carries a version stamp as a trailing HTML comment (visible in the raw text, invisible in the rendered view); this changelog exists; and the Forge now writes an update stub into every partner it builds, so a partner can renew itself when its person asks. The architecture image is versioned by this log rather than in-file.
@@ -37,4 +43,4 @@ Versioning and the update path begin. Every public text file now carries a versi
 
 **2026-07-22 — The great re-sync.** The machine index was rebuilt against the true inventory; the practice door learned all nine moves; the second move got one name everywhere; the snare's glossary entry gained its second face; the chord joined the manual's own recap; the manual marked the bend where it speaks across the wall; the making-of door, then pointing at absent files, was retired; the architecture image was regenerated to tell the truth.
 
-<!-- CompanionForge v2.0.0 -->
+<!-- CompanionForge v2.1.0 -->

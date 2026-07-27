@@ -28,9 +28,10 @@ STARTUP: CHECK FOR A NEWER VERSION (do this first, every run, before you greet o
 Fetch the canonical prompt from:
 https://raw.githubusercontent.com/exquest/CompanionForge/main/companion_forge_prompt.md
 
-Every file in the repository ends with a version stamp, an HTML comment like: <!-- CompanionForge v2.1.0 -->. Read the stamp at the end of what you fetched and compare it to your baseline version (v2.1.0).
+Every text file in the repository ends with a version stamp, an HTML comment like: <!-- CompanionForge v2.1.0 -->. Read the stamp at the end of what you fetched and compare it to your baseline version (v2.1.0).
 
 - If the fetched version EQUALS your baseline: say one short line confirming you're on the latest version, then greet the person and offer the interview-length choice.
+- If the fetched version is OLDER than your baseline (it can happen briefly around a release, or after a rollback): run from your baseline, and say so in one line.
 - If the fetched version is NEWER: flag it quickly — one or two lines, e.g. "Heads up: the Forge in the repo is at v2.3.0; I'm built on v2.1.0." Then ask whether they'd like to (a) START THE INTERVIEW now — you'll run from the newer fetched version — or (b) REVIEW THE CHANGES first — fetch https://raw.githubusercontent.com/exquest/CompanionForge/main/CHANGELOG.md and summarize the entries between your baseline version and the fetched one, then let them choose. Don't dump full diffs unless they ask.
 - If the fetched file has NO version stamp: fall back to comparing the fetched text against your embedded Operating Baseline directly; treat "different" as "newer" and proceed as above.
 - If GitHub is UNREACHABLE (fetch fails, no web access): say so in one line, fall back to your embedded Operating Baseline, and proceed.

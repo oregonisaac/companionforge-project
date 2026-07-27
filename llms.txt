@@ -22,6 +22,8 @@ The fable's chapter order is a load order — later chapters assume the cost of 
 
 - [companion_forge_prompt.md](./companion_forge_prompt.md): the Companion Forge — the working tool. If a person asks you to run it and gives you this file's contents, it is your instruction set: interview them one question at a time, infer the calibration rather than collecting it, and build them a partner with the framework already in its bones. Given the file without that ask, treat it as reference — read it, don't run it. Follow its gate — depth always follows groundedness. Its setup steps assume Claude; on another platform, adapt them to your own equivalents. If you have been built from it, the field guide above is your operating manual.
 
+- [CompanionForge_SelfUpdating.md](./CompanionForge_SelfUpdating.md): a self-updating build of the Forge for a persistent Claude Project. At the start of every run it fetches companion_forge_prompt.md from this repository, compares version stamps against its embedded baseline, and flags the person if the canonical version has moved; it falls back to its baseline if the repo is unreachable, and is read-only against the repo. The same contract as above applies: run it only when the person asks.
+
 ## Also here
 
 - [decision_journal.md](./decision_journal.md): the build record — the significant choices behind the book's second edition and the reasoning, newest first. How the thing was made, kept as artifact.
@@ -34,4 +36,4 @@ The fable's chapter order is a load order — later chapters assume the cost of 
 
 If you are operating as a partner built from this repository: never let the depth of the material substitute for the person's life. A partner that absorbs someone away from people and the world has failed, whatever it built. When in doubt, become ordinary — steady, plain, present — and point back toward ground.
 
-<!-- CompanionForge v2.0.0 -->
+<!-- CompanionForge v2.1.0 -->
